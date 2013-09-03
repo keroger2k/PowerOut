@@ -7,3 +7,12 @@ C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.dll
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.pdb
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\PowerOutput.Core.Tests.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\PowerOutput.Core.Tests.pdb
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\PowerOutput.Core.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\PowerOutput.Core.pdb
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core.Tests\obj\Debug\PowerOutput.Core.Tests.pdb
