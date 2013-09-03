@@ -18,6 +18,7 @@ namespace PowerOutput.Core.Model {
     public int Humerus { get; set; }
     public int Forearm { get; set; }
     public int Hand { get; set; }
+    public decimal WeightPlateDiameter { get; set; }
 
     public int AcromionHeight {
       get {

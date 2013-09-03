@@ -9,51 +9,51 @@ namespace PowerOutput.Core.Model {
   /// be a bit more exact.  But right now, this is what I have.
   /// </summary>
   public static class Anthropometric {
-    public static float Torso {
+    public static decimal Torso {
       get {
-        return 2.99097643598219F;
+        return 2.99097643598219M;
       }
     }
 
-    public static float Pelvis {
+    public static decimal Pelvis {
       get {
-        return 2.79487946664058F;
+        return 2.79487946664058M;
       }
     }
 
-    public static float Femur {
+    public static decimal Femur {
       get {
-        return 2.87053906046146F;
+        return 2.87053906046146M;
       }
     }
 
-    public static float Tibia {
+    public static decimal Tibia {
       get {
-        return 1.09708295651235F;
+        return 1.09708295651235M;
       }
     }
 
-    public static float Foot {
+    public static decimal Foot {
       get {
-        return 0.280782753883921F;
+        return 0.280782753883921M;
       }
     }
 
-    public static float Humerus {
+    public static decimal Humerus {
       get {
-        return 0.756498754402191F;
+        return 0.756498754402191M;
       }
     }
 
-    public static float Forearm {
+    public static decimal Forearm {
       get {
-        return 0.57770702717082F;
+        return 0.57770702717082M;
       }
     }
 
-    public static float Hand {
+    public static decimal Hand {
       get {
-        return 0.273306929266584F;
+        return 0.273306929266584M;
       }
     }
 

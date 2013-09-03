@@ -39,13 +39,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercises\Burpee.cs" />
+    <Compile Include="Exercises\PowerClean.cs" />
+    <Compile Include="Exercises\Deadlift.cs" />
+    <Compile Include="Exercises\Pushup.cs" />
+    <Compile Include="Exercises\Squat.cs" />
     <Compile Include="Exercises\Pullup.cs" />
     <Compile Include="Model\Anthropometric.cs" />
-    <Compile Include="Model\ComponentsWeight.cs" />
+    <Compile Include="Model\Components.cs" />
     <Compile Include="Model\Exercise.cs" />
     <Compile Include="Model\Measurements.cs" />
+    <Compile Include="Model\Movement.cs" />
     <Compile Include="Model\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PowerOutput.Core.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

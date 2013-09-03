@@ -3,3 +3,8 @@ C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core\obj\Debug\PowerOutput.Core.csprojResolveAssemblyReference.cache
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core\obj\Debug\PowerOutput.Core.dll
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\PowerOutput.Core\PowerOutput.Core\obj\Debug\PowerOutput.Core.pdb
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core\bin\Debug\PowerOutput.Core.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core\bin\Debug\PowerOutput.Core.pdb
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core\obj\Debug\PowerOutput.Core.csprojResolveAssemblyReference.cache
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core\obj\Debug\PowerOutput.Core.dll
+C:\Users\kroge_000\Documents\Visual Studio 2012\Projects\PowerOut\PowerOutput.Core\obj\Debug\PowerOutput.Core.pdb

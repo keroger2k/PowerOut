@@ -8,27 +8,31 @@ namespace PowerOutput.Core.Exercises {
 
   public class Pullup : Exercise {
 
-    private readonly Person person;
+    private readonly Person _person;
+    private decimal _bodyWeightDistanceMoved {
+      get {
+        return (decimal)(this._person.Components.Measurements.Humerus + this._person.Components.Measurements.Forearm) / 12;
+      }
+    }
 
     public Pullup(Person person) {
-      this.person = person;
+      this._person = person;
     }
 
     public override Movement[] Movements {
       get {
         return new Movement[] { 
         new Movement { 
-          BodyWeightWeightMoved = person.Weight - ((Anthropometric.Forearm * person.Measurements.Forearm) + (Anthropometric.Hand * person.Measurements.Hand)), 
-          BodyWeightDistanceMoved = (float)(this.person.Measurements.Humerus + this.person.Measurements.Forearm) /12
+          BodyWeightWeightMoved = (decimal)_person.Weight - (_person.Components.ForearmWeight + _person.Components.HandWeight), 
+          BodyWeightDistanceMoved = _bodyWeightDistanceMoved
         } 
       };
       }
     }
 
-    public override float WeightDistanceMoved {
-      get { return (float)(this.person.Measurements.Humerus + this.person.Measurements.Forearm) / 12; }
+    public override decimal WeightDistanceMoved {
+      get { return _bodyWeightDistanceMoved; }
     }
 
   }
-
 }
